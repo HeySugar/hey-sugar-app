@@ -1,4 +1,5 @@
 {
+  "private": true,
   "workspaces": [
     "hey-sugar-client",
     "hey-sugar-tracker"

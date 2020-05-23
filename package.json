@@ -1,0 +1,6 @@
+{
+  "workspaces": [
+    "hey-sugar-client",
+    "hey-sugar-tracker"
+  ]
+}

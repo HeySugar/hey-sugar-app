@@ -13,7 +13,7 @@ module.exports = {
         sanity: {
           projectId: process.env.GATBSY_SANITY_PROJECT_ID,
           dataset: process.env.GATBSY_SANITY_DATASET,
-          token: "",
+          token: process.env.GATBSY_SANITY_TOKEN,
           watchMode: false,
           overlayDrafts: false,
         },

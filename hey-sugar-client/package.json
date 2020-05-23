@@ -1,0 +1,29 @@
+{
+  "name": "hey-sugar-client",
+  "private": true,
+  "description": "Gatsby client application for Hey Sugar",
+  "version": "0.1.0",
+  "author": "Jamie Bradley <jamie@endeavour-digital.com>",
+  "dependencies": {
+    "gatsby": "^2.21.37",
+    "gatsby-plugin-manifest": "^2.4.5",
+    "gatsby-plugin-offline": "^3.2.3",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-helmet": "^6.0.0",
+    "@hey-sugar/gatsby-theme-heysugar": "0.1.0"
+  },
+  "devDependencies": {
+    "prettier": "2.0.5"
+  },
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+  }
+}

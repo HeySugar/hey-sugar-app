@@ -1,0 +1,33 @@
+{
+  "root": true,
+  "project": {
+    "name": "HeySugar Tracker"
+  },
+  "api": {
+    "projectId": "588na1yp",
+    "dataset": "production"
+  },
+  "plugins": [
+    "@sanity/base",
+    "@sanity/components",
+    "@sanity/default-layout",
+    "@sanity/default-login",
+    "@sanity/desk-tool",
+    "@hey-sugar/sanity-plugin-hey-sugar-schema"
+  ],
+  "env": {
+    "development": {
+      "plugins": ["@sanity/vision"]
+    }
+  },
+  "parts": [
+    {
+      "name": "part:@sanity/base/schema",
+      "path": "./schemas/schema"
+    },
+    {
+      "name": "part:@sanity/desk-tool/structure",
+      "path": "./src/structure/deskStructure.js"
+    }
+  ]
+}

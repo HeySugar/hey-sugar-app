@@ -8,7 +8,7 @@ module.exports = {
   },
   plugins: [
     {
-      resolve: "gatsby-theme-heysugar",
+      resolve: "@hey-sugar/gatsby-theme-heysugar",
       options: {
         sanity: {
           projectId: process.env.GATBSY_SANITY_PROJECT_ID,

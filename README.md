@@ -1,4 +1,4 @@
-## What is HeySugar?
+# What is HeySugar?
 
 HeySugar is an open-source, self hosted, blood sugar management application for type one and type two diabetics. HeySugar is developed with Jamstack and is made up of two separate applications:
 

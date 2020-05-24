@@ -1,6 +1,7 @@
 [build]
   base = "hey-sugar-client/"
   publish = "public/"
+  command = "yarn build"
 
 [template.environment]
   GATBSY_SANITY_PROJECT_ID="Your Sanity Project ID"

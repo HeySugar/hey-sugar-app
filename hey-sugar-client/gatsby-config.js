@@ -12,7 +12,7 @@ module.exports = {
       options: {
         sanity: {
           projectId: sanity.api.projectId,
-          dataset: sanity.api.projectId,
+          dataset: sanity.api.dataset,
           watchMode: false,
           overlayDrafts: false,
         },

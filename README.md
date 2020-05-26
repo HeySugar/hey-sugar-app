@@ -13,5 +13,3 @@ The blood tracking application has been developed with [Sanity](https://sanity.i
 ### Want to Get Started?
 
 Head over to our [documentation](http://heysugar.health/documentation/getting-started) for information on getting started and don't forget, if you experience any problems then raise an issue on our github. Better yet, if you want to contribute then Pull Requests are welcome!
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/HeySugar/hey-sugar-app)

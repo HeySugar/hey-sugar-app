@@ -20,7 +20,7 @@
     "sanity"
   ],
   "dependencies": {
-    "@hey-sugar/sanity-plugin-hey-sugar-schema": "0.2.0",
+    "@hey-sugar/sanity-plugin-hey-sugar-schema": "0.2.1",
     "@sanity/base": "^1.149.10",
     "@sanity/components": "^1.149.10",
     "@sanity/core": "^1.149.12",

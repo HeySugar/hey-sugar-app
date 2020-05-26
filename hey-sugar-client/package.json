@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "author": "Jamie Bradley <jamie@endeavour-digital.com>",
   "dependencies": {
-    "gatsby": "^2.21.37",
+    "gatsby": "^2.22.9",
     "gatsby-plugin-manifest": "^2.4.5",
     "gatsby-plugin-offline": "^3.2.3",
     "react": "^16.12.0",

@@ -1,4 +1,4 @@
-require("dotenv").config()
+const sanity = require("../hey-sugar-tracker/sanity.json")
 
 module.exports = {
   siteMetadata: {
@@ -11,9 +11,8 @@ module.exports = {
       resolve: "@hey-sugar/gatsby-theme-heysugar",
       options: {
         sanity: {
-          projectId: process.env.GATBSY_SANITY_PROJECT_ID,
-          dataset: process.env.GATBSY_SANITY_DATASET,
-          token: process.env.GATBSY_SANITY_TOKEN,
+          projectId: sanity.api.projectId,
+          dataset: sanity.api.projectId,
           watchMode: false,
           overlayDrafts: false,
         },

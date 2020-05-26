@@ -2,8 +2,3 @@
   base = "hey-sugar-client/"
   publish = "public/"
   command = "yarn build"
-
-[template.environment]
-  GATBSY_SANITY_PROJECT_ID="Your Sanity Project ID"
-  GATBSY_SANITY_DATASET="Your Sanity Dataset"
-  GATBSY_SANITY_TOKEN="Your Sanity Token"

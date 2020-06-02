@@ -4,8 +4,8 @@
     "name": "HeySugar Tracker"
   },
   "api": {
-    "projectId": "your-project-id",
-    "dataset": "your-dataset"
+    "projectId": "xvauet6h",
+    "dataset": "production"
   },
   "plugins": [
     "@sanity/base",

@@ -14,7 +14,7 @@ The blood tracking application has been developed with [Sanity](https://sanity.i
 
 Head over to our [documentation](http://heysugar.health/documentation/getting-started) for information on getting started and don't forget, if you experience any problems then raise an issue on our github. Better yet, if you want to contribute then Pull Requests are welcome!
 
-### Discord Community
+### Discord Community
 
 Please join our Discord Server if you would like to chat about the project or any topics surrounding diabetes!
 
